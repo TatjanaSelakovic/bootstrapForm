@@ -1,0 +1,135 @@
+.mainPic span{
+    font-size: 70px;
+    background: purple;
+    color: white;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.textForm {
+    max-width: 900px;
+    text-align: center;
+    padding: 70px 0;
+}
+
+.checkoutForm {
+    padding-top: 40px;
+}
+
+.checkoutForm p {
+    font-size: 20px;
+    line-height: 30px;
+}
+
+body{
+    background: rgb(238, 238, 238);
+}
+
+form.firstForm {
+    display: flex;
+}
+
+.mainPic img{
+    width: 100px;
+}
+
+.form1{
+    display: grid;
+    width: 300px;
+    margin-right: 30px;
+}
+
+
+button.btn.btn-primary.mb-2 {
+    font-size: 20px;
+}
+
+.usernameCol {
+    padding: 0;
+}
+
+.flex{
+    display: flex;
+}
+
+.cartList li:last-child p {
+    font-size: 17px;
+}
+
+.cartList li:last-child {
+    border-bottom: none;
+}
+
+
+.cartList ul {
+    padding: 0;
+    border: 1px solid rgb(194, 194, 194);
+    background: white;
+}
+
+.cartList li {
+    list-style-type: none;
+    display:flex;
+    justify-content:space-between;
+    border-bottom:1px solid rgb(194, 194, 194);
+    padding: 10px 20px;
+
+}
+
+.productlist p {
+    font-size: 13px;
+    margin: 0;
+}
+
+li.greenList {
+    color: green;
+    background: #f3f3f3;
+}
+
+span.creditcardInput {
+    font-size: 13px;
+    color: gray;
+}
+
+.textCart {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.yourCartText span{
+    color: white;
+    background: gray;
+    padding: 5px 10px;
+    border-radius: 40%;
+}
+
+.payment {
+    padding: 30px 0;
+}
+
+.creditCard {
+    padding-bottom: 30px;
+}
+
+.colButton {
+    padding: 0;
+}
+
+.footerCopyright {
+    text-align: center;
+    padding: 50px 0;
+}
+
+.footerCopyright p {
+    color: gray;
+    margin: 0;
+}
+
+.inputGroup {
+    border: 1px solid darkgray;
+    padding: 5px;
+    background: white;
+    border-radius: 5px;
+}
+
